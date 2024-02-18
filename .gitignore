@@ -216,3 +216,9 @@ scratch*
 magic-zoomcamp
 *.json
 YellowNYTaxiData2019-2021
+
+#duckdb
+duckdb_data
+*.duckdb
+*.duckdb-wal
+*.duckdb.wal
