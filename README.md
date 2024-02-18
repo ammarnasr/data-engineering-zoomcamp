@@ -1,4 +1,5 @@
 # Data Engineering ZoomCamp Progress
+<!-- # Data Engineering ZoomCamp Progress
 ### \#dezoomcamp
 ## Sunday 21/01/2024
 - Completed **Intro to Docker** video#1 module#1.1:
@@ -41,4 +42,4 @@
 ## XXX dd/mm/2024 (Replace XXX with the actual date)
 - Completed **XXX** video#XXX module#XXX:
   - Smooth completion, learned XXX, refreshed on XXX.
-  - Bonus: XXX.
+  - Bonus: XXX. -->
